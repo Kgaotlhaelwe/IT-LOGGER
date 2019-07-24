@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "INSTALL NEW WINDOWS",
+      "attention": false,
+      "tech": "John Doe ",
+      "date": "2019-07-24T03:38:43.152Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "fixed hard drive on working 0004",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-07-24T12:45:33.059Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John ",
+      "lasttName": "Doe "
+    },
+    {
+      "id": 2,
+      "firstName": "Sam ",
+      "lasttName": "Smith "
+    },
+    {
+      "firstName": "Vin",
+      "lastName": "Vincent",
+      "id": 3
+    }
+  ]
+}
